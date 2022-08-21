@@ -2,8 +2,10 @@
 ### Olá, Me chamo Henrique Santana👋
 ##
 
-
-
+<div style="display: flex" align="center">
+  <img width="750" src="https://github.com/rick-silva/rick-silva/blob/main/Wallpaper.png?raw=true" />
+</div>
+  
 ## Tecnologias que eu utilizo:
 <div style="display: inline_block"><br>
   <img align="center" alt="Rick-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
