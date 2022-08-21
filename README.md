@@ -1,6 +1,6 @@
 
 <div style="display: flex" align="center">
-  <img width="750" src="https://github.com/rick-silva/rick-silva/blob/main/Wallpaper.png?raw=true" />
+  <img width="750" src="https://github.com/rick-silva/rick-silva/blob/main/Wallpaper5.png?raw=true" />
 </div>
   
 ## Tecnologias que eu utilizo:
