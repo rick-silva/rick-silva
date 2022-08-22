@@ -24,3 +24,7 @@
 <h2 align="center"><img align="center" alt="gif android mobile" src="https://github.com/rick-silva/rick-silva/blob/main/giphyAndroid.gif?raw=true" width="60">Contato </h2><a href="https://www.linkedin.com/in/henrique-santana-445357198" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
+<div align="center">
+  <img align="center" alt="gif android mobile" src="https://github.com/rick-silva/rick-silva/blob/main/deadline.gif?raw=true" width="600">
+</div>
+
