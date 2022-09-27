@@ -3,7 +3,7 @@
   <img width="750" src="https://github.com/rick-silva/rick-silva/blob/main/Wallpaper5.png?raw=true" />
 </div>
   
-
+<h2 align="center"> Tecnologias que eu utilizo: <img align="center" alt="gif do t-rex da google com coração" src="https://github.com/rick-silva/rick-silva/blob/main/giphyRex.gif?raw=true" width="70"></h2>
 <div align="center">
   <img align="center" alt="Rick-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="Rick-CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
