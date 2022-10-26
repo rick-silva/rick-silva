@@ -1,13 +1,15 @@
+<div align="center">
+  
 <h1 align="center"> Henrique Santana <img align="center" src="https://cdn-icons-png.flaticon.com/512/3242/3242257.png" width="70"/></h1>
 
 
-<div align="center">
+
 
   ## Sobre Mim
   📕Estudante na FATEC Bragança Paulista, cursando Análise e Desenvolvimento</br> de Sistemas - 4° Semestre. Desenvolvedor Front-end 🖥 e curioso na área de</br> Segurança da informação 🔐.
-</div>
 
-<div align="center">
+
+
   <img align="center" alt="GIF portal rick and morty" src="./portalRickAndMorty.gif"/>
 </div>
 
