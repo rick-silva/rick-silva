@@ -2,6 +2,7 @@
 
 
 <div align="center">
+
   ## Sobre Mim
   📕Estudante na FATEC Bragança Paulista, cursando Análise e Desenvolvimento</br> de Sistemas - 4° Semestre. Desenvolvedor Front-end 🖥 e curioso na área de</br> Segurança da informação 🔐.
 </div>
@@ -13,8 +14,10 @@
 
 
 
+<div align="center">
   
-## 🚀 Tecnologias que eu utilizo: <img align="center" alt="gif do t-rex da google com coração" src="https://github.com/rick-silva/rick-silva/blob/main/giphyRex.gif?raw=true" width="70">
+## 🚀 Tecnologias que eu utilizo: <img align="center" alt="gif do t-rex da google com coração" src="./rick.gif" width="70">
+</div>
 <div align="center">
   <img alt="Rick-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="Rick-CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -27,6 +30,7 @@
 <br>
 
 
+<br/>
 
 
 <div align="center">
